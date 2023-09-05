@@ -1,7 +1,6 @@
 - 🖖 Hi, I’m @Techi77
-- 👀 I’m interested in working as an android developer.
-- 🌱 I’m currently learning JS, Kotlin now.
-- 💃 My hobbies: computer games, fitness.
+- 👀 I’m working as an android developer.
+- 💃 My hobbies: walking with my doggy, lying with my kitty, pole dance, pole exotic.
 - 📫 How to reach me: rossinskaya98@gmail.com
 
 <!---
